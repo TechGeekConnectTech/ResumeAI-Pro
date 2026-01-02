@@ -1,0 +1,14 @@
+sqlalchemy
+fastapi
+pymysql
+cryptography
+uvicorn
+python-multipart
+ollama
+PyPDF2
+python-docx
+spacy
+scikit-learn
+numpy
+pandas
+requests
